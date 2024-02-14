@@ -1,0 +1,6 @@
+import math
+x= int(input ('введите x'))
+x= -2/3
+z=math.pow 5(x,3)+ math.pow 70(x,2)+14x=[(5x+70)x+14]x
+z=int(input (x))
+print(x)
